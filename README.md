@@ -1,3 +1,6 @@
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+yappi+WA+Bot+repo;Created+by+Safwankvk⚡️;This+is+a+Bgm+stickerbot🤖;With+more+features)
 ## Thanks for Everything 
 ### We will always remember you..
 
